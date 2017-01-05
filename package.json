@@ -1,6 +1,6 @@
 {
   "name": "raqch4t",
-  "version": "0.1",
+  "version": "0.1.0",
   "description": "A SocketIO Chat Web Application based on http://socket.io/get-started/chat/.",
   "dependencies": {
     "express": "^4.10.2",
